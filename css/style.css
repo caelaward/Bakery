@@ -35,7 +35,7 @@ input[type="submit"]:hover {
 }
 
 .b1{
-    background-image: url(/E-commerce.web/landingpic\ \(1\).jpg);
+    background-image: url(/E-commerce.web/pictures/landingpic\ \(1\).jpg);
     background-size: contain
 }
 #p1 {
@@ -143,7 +143,7 @@ font-weight: bolder;
 }
 
 .b5{
-background-image: url(/E-commerce.web/about.back.img);
+background-image: url(/E-commerce.web/pictures/about.back.img);
 background-size:cover;
 }
 
